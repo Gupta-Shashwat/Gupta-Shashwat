@@ -3,18 +3,18 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bee0a9cc6c6f0a1ae3dd51a6c710922caaaa4e335c74a6852a8a7dbf9a608734/68747470733a2f2f692e696d6775722e636f6d2f646b31494737322e676966" width="500" height="320" />
 
 
-## I'm a DevOps Enthusiast and Cloud Explorer!!
-- ✍ You can find my projects here [Click-Me](https://github.com/Tanish-Mishra?tab=repositories)
+## I'm a !!
+- ✍ You can find my projects here [Click-Me](https://github.com/Gupta-Shashwat?tab=repositories)
 - 🔭 I’m currently learning to Contribute to the Open Source Projects!
-- 🌱 I’m currently learning Amazon Web Services(AWS)
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about DevOps and Cloud
+- 💬 Ask me about Full Stack
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can type Faster(100WPM+ on [<img align="center" alt="MonkeyType | Tanish" width="22px" src="/icons/monkey.png" />][monkeytype] in ENG)
+- ⚡ Fun fact: I can type slower(100WPM- on [<img align="center" alt="MonkeyType | Shashwat" width="22px" src="/icons/monkey.png" />][monkeytype] in ENG)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Tanish_Mishra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me, I am not awesome though:
+[<img align="left" alt="Shashwat_Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
