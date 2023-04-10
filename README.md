@@ -24,16 +24,14 @@
 [<img align="left" alt="HTML5" width="26px" src="/icons/html5.png" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="/icons/css.png" />](https://www.w3schools.com/css/)
 [<img align="left" alt="linux" width="26px" src="/icons/linux.png" />](https://www.linux.org/)
-[<img align="left" alt="Terraform" width="26px" src="/icons/Terraform.png" />](https://www.terraform.io/)
-[<img align="left" alt="Jenkins" width="26px" src="/icons/Jenkins.png" />](https://www.jenkins.io/)
+[<img align="left" alt="Node.js" width="26px" src="/icons/node.png" />](http://nodejs.org/)
+[<img align="left" alt="Express.js" width="26px" src="/icons/express.png" />](https://www.expressjs.com/)
 [<img align="left" alt="YAML" width="26px" src="/icons/yaml.png" />](https://yaml.org/)
-[<img align="left" alt="Kubernetes" width="26px" src="/icons/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="Ansible" width="26px" src="/icons/ansible.png" />](https://www.ansible.com/)
+[<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="React.js" width="26px" src="/icons/react.png" />](https://reactjs.org/)
 [<img align="left" alt="Bash" width="26px" src="/icons/bash.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="AWS" width="26px" src="/icons/aws.png" />](https://aws.amazon.com/)
 [<img align="left" alt="Git" width="26px" src="/icons/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="/icons/github.png" />](https://github.com/)
-[<img align="left" alt="Docker" width="26px" src="/icons/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="Terminal" width="26px" src="/icons/terminal.png" />](#)
 [<img align="left" alt="npm" width="26px" src="/icons/npm.png" />](https://www.npmjs.com/)
 
@@ -44,19 +42,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tanish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tanish-mishra&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shashwat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gupta-shashwat&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Tanish's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-mishra" />
+<img align="left" alt="Shashwat's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-shashwat" />
 
 </details>
 
-[Click-Me]: https://github.com/Tanish-Mishra
-[github]: https://github.com/Tanish-Mishra
-[instagram]: https://www.instagram.com/_tanish_mishra/
-[linkedin]: https://www.linkedin.com/in/tanish-mishra-5a7478265/
+[Click-Me]: https://github.com/Gupta-Shashwat
+[github]: https://github.com/Gupta-Shashwat
+[instagram]: https://www.instagram.com/shashwatgupta9935/
+[linkedin]: https://www.linkedin.com/in/shashwat-gupta-064840220/
 [monkeytype]: https://www.monkeytype.com/
